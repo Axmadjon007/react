@@ -1,0 +1,55 @@
+
+.nav-con {
+    height: 78px;
+    background: #fbfcff;
+    border-bottom: 2px solid #f2f2f2;
+    padding: 0 61px 0 45px;
+    display: flex;
+    align-items: center;
+}
+.nav-input-search {
+    flex: 3;
+    height: 50px;
+    margin-right: 34px;
+    padding-left: 56px;
+
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 17px;
+
+}
+.nav-input-car {
+    flex: 2;
+    height: 50px;
+    margin-right: 74px;
+
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.fa {
+    font-size: 28px;
+    margin-right: 45px;
+    padding-left: 30px;
+}
+.userImg {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.icon-lupa {
+    position: absolute;
+    margin-left: -10px;
+}
+/* .icon-right {
+    position: absolute;
+    margin-left: 1150px;
+} */
+
+

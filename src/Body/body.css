@@ -1,0 +1,126 @@
+
+.body {
+    padding: 45px 117px;
+}
+
+.card {
+    background: #f7f7fc;
+    box-shadow: 0px 100px 80px rgba(41, 72, 152, 0.05),
+    0px 64.8148px 46.8519px rgba(41, 72, 152, 0.037963),
+    0px 38.5185px 25.4815px rgba(41, 72, 152, 0.0303704),
+    0px 20px 13px rgba(41, 72, 152, 0.025), 
+    0px 8.14815px 6.51852px rgba(41, 72, 152, 0.0196296),
+    0px 1.85185px 3.14815px rgba(41, 72, 152, 0.012037);
+    border-radius: 10px;
+    width: 100px;
+    height: 102px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+/* center */
+
+.body-cent{
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    margin-left: 30px;
+    margin-top: 108px;
+
+    font-family: Bahnschrift Light ;
+    font-size: 58px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.tit {
+    position: static; 
+    margin-left: 390px;
+    margin-top: -60px;
+
+    font-family: Bahnschrift SemiBold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.cent-icons{
+    margin-top: 70px;
+    margin-left: 170px;
+    display: flex;
+    
+}
+.ico-left {
+    margin-right: 8px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px 15px 15px 15px;
+
+}
+.ico-right {
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px 15px 15px 15px;
+
+}
+/* bottom */
+
+
+
+/*  */
+
+.body-right {
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin: -425px 0px 0px 920px;
+}
+.iconki{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(232, 237, 241);
+    padding: 10px;
+    border-radius: 50%;
+    height: 50px;
+    width:  50px;
+    margin-top: 50px;
+
+}
+
+.titlee {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+
+.info {
+    margin: 30px 0px 0px 0px;
+
+
+    font-family: Google Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0164px;
+    line-height: 22px;
+    color: #9BA6B2;
+} 
+
+
+

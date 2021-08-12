@@ -1,0 +1,121 @@
+
+.logoWrepper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 86px;
+}
+.logo {
+    width: 26px;
+    height: 26px;
+    margin-right: 11px;
+}
+.logo-text {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 24px;
+}
+.sidebar {
+    padding-left: 43px;
+    border-right: 2px solid #f2f2f2;
+    width: 200px;
+}
+
+.menu {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin-bottom: 19px;
+}
+.item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 26px;
+
+}
+.item-text {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #838383;
+}
+.fa {
+    margin-right: 18px;
+    color: #838383;
+}
+
+
+
+
+.scheduled {
+    margin-top: 112px;
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin-bottom: 40px;
+}
+.races  {
+    display: flex;
+    align-items: center;
+}
+.cirle {
+    width: 12px;
+    height: 12px;
+    border: 2px solid blue;
+    border-radius: 50%;   
+}
+.b {
+    border: 2px solid red;
+}
+.d {
+    border: 2px solid darkturquoise;
+}
+.info {
+    margin-left: 14px;
+
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #838383;
+}
+
+
+
+
+
+.bottom {
+    background-color: #f4f6fd;;
+    width: 170px;
+    padding: 10px;
+
+    margin-top: 115px;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+ 
+}
+.odam-text {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #591AED;
+    margin-left: 15px;
+}
+
+.fabottom {
+    color: blue;
+    margin-left: 25px;
+}
